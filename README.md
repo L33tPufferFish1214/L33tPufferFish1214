@@ -10,7 +10,7 @@ I’m currently studying Computer Science with a minor in Psychology and working
 
 ---
 
-## 🔹 Technical Skills
+## 🔹Skills
 
 **Languages:**  
 Python, C++, JavaScript, TypeScript, C#, HTML/CSS, SQL, Bash
@@ -19,7 +19,7 @@ Python, C++, JavaScript, TypeScript, C#, HTML/CSS, SQL, Bash
 React, Node.js, .NET, Flask, Express, Tailwind CSS, Git, Docker, MongoDB, PostgreSQL, Firebase
 
 **Others:**  
-REST APIs, WebSocket, TensorFlow (basics), Scikit-learn, Pandas, NumPy, Figma, Agile/Scrum, CI/CD
+REST APIs, Scikit-learn, Pandas, NumPy, Figma, Agile/Scrum, CI/CD
 
 ---
 
@@ -69,17 +69,17 @@ _[Start Date] – [End Date]_
 
 ## 🔹 Education
 
-**Computer Scince** – [University of Utah]  
-Expected Graduation: [May, 2026]  
+**Computer Scince** – University of Utah
+Expected Graduation: May, 2026  
 Relevant Courses: Data Structures, Algorithms, Software Practice, Human-Computer Interaction, Probability & Statistics, Cognitive Psychology
 
 ---
 
 ## 🔹 Contact
 
-**Email:** [AliH.Abdelmaabood@gmail.com]  
-**LinkedIn:** [(https://www.linkedin.com/in/ali-abdelmaabood-144055214)]  
-**Portfolio Website:** [(https://l33tpufferfish1214.github.io/Ali.Portfolio/)]   
+**Email:** AliH.Abdelmaabood@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/ali-abdelmaabood-144055214 
+**Portfolio Website:** https://l33tpufferfish1214.github.io/Ali.Portfolio/ 
 
 ---
 
