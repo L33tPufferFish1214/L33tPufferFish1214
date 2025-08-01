@@ -78,7 +78,9 @@ Relevant Courses: Data Structures, Algorithms, Software Practice, Human-Computer
 ## 🔹 Contact
 
 **Email:** AliH.Abdelmaabood@gmail.com]
+
 **LinkedIn:** https://www.linkedin.com/in/ali-abdelmaabood-144055214 
+
 **Portfolio Website:** https://l33tpufferfish1214.github.io/Ali.Portfolio/ 
 
 ---
