@@ -84,4 +84,6 @@ Relevant Courses: Data Structures, Algorithms, Software Practice, Human-Computer
 **Portfolio Website:** https://l33tpufferfish1214.github.io/Ali.Portfolio/ 
 
 ---
+```text
+Python    SQL    Git    HTML/CSS    Excel    Jupyter    Streamlit    Canva
 
