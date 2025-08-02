@@ -13,57 +13,27 @@ I’m currently studying Computer Science with a minor in Psychology and working
 ## 🔹Skills
 
 **Languages:**  
-Python, C++, JavaScript, TypeScript, C#, HTML/CSS, SQL, Bash
+Python, C++, SQL, JavaScript, TypeScript, C#, HTML/CSS
 
 **Frameworks & Tools:**  
-React, Node.js, .NET, Flask, Express, Tailwind CSS, Git, Docker, MongoDB, PostgreSQL, Firebase
+React, Node.js, .NET, Flask, Express, Tailwind CSS
 
 **Others:**  
 REST APIs, Scikit-learn, Pandas, NumPy, Figma, Agile/Scrum, CI/CD
 
 ---
 
-## 🔹 Projects
-
-### 📁 [Project Name]
-Short one-liner about what it is.  
-**Tech Stack:** React, Node.js, MongoDB  
-- Feature 1  
-- Feature 2  
-- Live Demo: [link]  
-- Repo: [GitHub link]
-
----
-
-### 📁 [Another Project]
-Short one-liner about what it does or solves.  
-**Tech Stack:** Python, Flask, PostgreSQL  
-- Feature 1  
-- Feature 2  
-- Repo: [GitHub link]
-
----
-
-### 📁 [Machine Learning Project]
-Short description, what it predicts or solves.  
-**Tech Stack:** Python, Pandas, Scikit-learn  
-- Built a model to predict __  
-- Achieved __ accuracy  
-- Repo: [GitHub link]
-
----
-
 ## 🔹 Experience
 
-**[Job Title] – [Company]**  
-_[Start Date] – [End Date]_  
-- Task or achievement 1  
-- Task or achievement 2  
+**Manager – University of Utah**  
+_ August 2023 – December 2024_  
+- Helped create a positive and engaging student environment through leadership and consistency  
+- •	Maintained a welcoming and inclusive space for all students 
 
-**[Internship Title] – [Company]**  
-_[Start Date] – [End Date]_  
-- What you contributed to  
-- What you learned or built  
+**Representative & Event Organizer  – University of Utah**  
+_  August 2024 – June 2025_  
+- Led event planning and coordination in a high-density residential setting 
+- Strengthened communication, leadership, and problem-solving under pressure 
 
 ---
 
@@ -82,8 +52,4 @@ Relevant Courses: Data Structures, Algorithms, Software Practice, Human-Computer
 **LinkedIn:** https://www.linkedin.com/in/ali-abdelmaabood-144055214 
 
 **Portfolio Website:** https://l33tpufferfish1214.github.io/Ali.Portfolio/ 
-
----
-```text
-Python    SQL    Git    HTML/CSS    Excel    Jupyter    Streamlit    Canva
 
