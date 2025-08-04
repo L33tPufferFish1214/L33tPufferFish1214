@@ -18,9 +18,6 @@ Python, C++, SQL, JavaScript, TypeScript, C#, HTML/CSS
 **Frameworks & Tools:**  
 React, Node.js, .NET, Tailwind CSS
 
-**Others:**  
-REST APIs, Scikit-learn, Pandas, NumPy, Figma, Agile/Scrum, CI/CD
-
 ---
 
 ## 🔹 Experience
