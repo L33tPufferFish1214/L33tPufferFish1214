@@ -16,7 +16,7 @@ I’m currently studying Computer Science with a minor in Psychology and working
 Python, C++, SQL, JavaScript, TypeScript, C#, HTML/CSS
 
 **Frameworks & Tools:**  
-React, Node.js, .NET, Flask, Express, Tailwind CSS
+React, Node.js, .NET, Tailwind CSS
 
 **Others:**  
 REST APIs, Scikit-learn, Pandas, NumPy, Figma, Agile/Scrum, CI/CD
