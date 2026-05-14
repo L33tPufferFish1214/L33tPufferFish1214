@@ -73,6 +73,4 @@ Certificates: BCG GenAI Job Simulation (Nov 2025) &nbsp;·&nbsp; Human Factors C
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l33tpufferfish1214&show_icons=true&theme=transparent&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=666666&hide=stars,contribs)
-
 </div>
