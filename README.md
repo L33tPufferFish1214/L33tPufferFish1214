@@ -5,8 +5,11 @@
 
 ## 🔹 About Me
 
-I’m currently studying Computer Science with a minor in Psychology and working toward a Human Factors certificate. I’m especially interested in how people interact with technology whether that’s through intelligent systems, machine learning, or user-focused design. My background helps me see and connect both the technical side and the human side of computing. I’m curious about how we can build systems that are not only smart, but also intuitive and ethical. Right now, I’m looking to gain more hands-on experience in areas like AI, ML, and information systems
+I'm currently studying Computer Science with a minor in FinTech and working toward a Human Factors certificate. My main interests lie in Machine Learning, Artificial Intelligence, and how these technologies are transforming modern finance.
 
+With a background that connects between human-centered design and technical problem-solving, I'm drawn to understanding how intelligent systems can make financial decision-making more accessible and efficient. I'm especially interested in areas like algorithmic trading, predictive modeling, and AI-driven financial analysis.
+
+Right now, I'm focused on building a foundation that connects data, intelligence, and human behavior to create smarter financial technologies.
 
 ---
 
